@@ -1,0 +1,18 @@
+C:\Users\Wipped\source\repos\Gestiune Stocuri PAW\Gestiune Stocuri PAW\bin\Debug\Gestiune Stocuri PAW.exe.config
+C:\Users\Wipped\source\repos\Gestiune Stocuri PAW\Gestiune Stocuri PAW\bin\Debug\Gestiune Stocuri PAW.exe
+C:\Users\Wipped\source\repos\Gestiune Stocuri PAW\Gestiune Stocuri PAW\bin\Debug\Gestiune Stocuri PAW.pdb
+C:\Users\Wipped\source\repos\Gestiune Stocuri PAW\Gestiune Stocuri PAW\obj\Debug\Gestiune Stocuri PAW.csproj.AssemblyReference.cache
+C:\Users\Wipped\source\repos\Gestiune Stocuri PAW\Gestiune Stocuri PAW\obj\Debug\Gestiune_Stocuri_PAW.Login.resources
+C:\Users\Wipped\source\repos\Gestiune Stocuri PAW\Gestiune Stocuri PAW\obj\Debug\Gestiune_Stocuri_PAW.Properties.Resources.resources
+C:\Users\Wipped\source\repos\Gestiune Stocuri PAW\Gestiune Stocuri PAW\obj\Debug\Gestiune Stocuri PAW.csproj.GenerateResource.cache
+C:\Users\Wipped\source\repos\Gestiune Stocuri PAW\Gestiune Stocuri PAW\obj\Debug\Gestiune Stocuri PAW.csproj.CoreCompileInputs.cache
+C:\Users\Wipped\source\repos\Gestiune Stocuri PAW\Gestiune Stocuri PAW\obj\Debug\Gestiune Stocuri PAW.exe
+C:\Users\Wipped\source\repos\Gestiune Stocuri PAW\Gestiune Stocuri PAW\obj\Debug\Gestiune Stocuri PAW.pdb
+C:\Users\Wipped\source\repos\Gestiune Stocuri PAW\Gestiune Stocuri PAW\obj\Debug\Gestiune_Stocuri_PAW.Meniu.resources
+C:\Users\Wipped\source\repos\Gestiune Stocuri PAW\Gestiune Stocuri PAW\obj\Debug\Gestiune_Stocuri_PAW.Produs_secundar.resources
+C:\Users\Wipped\source\repos\Gestiune Stocuri PAW\Gestiune Stocuri PAW\obj\Debug\Gestiune_Stocuri_PAW.ProduseForm.resources
+C:\Users\Wipped\source\repos\Gestiune Stocuri PAW\Gestiune Stocuri PAW\obj\Debug\Gestiune_Stocuri_PAW.ClientiForm.resources
+C:\Users\Wipped\source\repos\Gestiune Stocuri PAW\Gestiune Stocuri PAW\obj\Debug\Gestiune_Stocuri_PAW.Clienti_secundar.resources
+C:\Users\Wipped\source\repos\Gestiune Stocuri PAW\Gestiune Stocuri PAW\obj\Debug\Gestiune_Stocuri_PAW.ComenziForm.resources
+C:\Users\Wipped\source\repos\Gestiune Stocuri PAW\Gestiune Stocuri PAW\obj\Debug\Gestiune_Stocuri_PAW.Grafic.resources
+C:\Users\Wipped\source\repos\Gestiune Stocuri PAW\Gestiune Stocuri PAW\obj\Debug\Gestiune_Stocuri_PAW.Selectie_curenta.resources
